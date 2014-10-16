@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cmo:home|Door43 (cmo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cmo|d43-cmo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cmo/archive/master.zip|d43-cmo.zip]]
+
+**Recent Changes**
+{{changes>ns = cmo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cmo|Ethnologue data]]
+
